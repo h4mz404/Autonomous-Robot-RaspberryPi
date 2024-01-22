@@ -2,6 +2,10 @@
 
 Hamza Shah Khan: 119483152 | hamzask@umd.edu
 
+### **Output Video**
+
+[https://drive.google.com/file/d/1d204RiwlYIIe02Jf-8912CeFpOY6TO14/view?usp=share_link](https://youtu.be/gNVTwzo-xQs)https://youtu.be/gNVTwzo-xQs
+
 ## Overview
 
 On February 6, 2018, SpaceX successfully launched its Falcon Heavy, marking a significant milestone in space exploration. In the spirit of interplanetary exploration, the ENPM 809T Grand Challenge for Spring 2023 involves simulating the construction of a shelter on Mars. Students will design and implement a ground robot capable of autonomously navigating the Martian landscape, collecting construction blocks, and transporting them to a predetermined construction zone. The project aligns with SpaceX's goal of sending cargo missions to Mars in preparation for human colonization.
@@ -41,8 +45,6 @@ On February 6, 2018, SpaceX successfully launched its Falcon Heavy, marking a si
 - Points deducted for White, Black, or Yellow blocks delivered in part or in full.
 
 
-### **Output**
 
-[https://drive.google.com/file/d/1d204RiwlYIIe02Jf-8912CeFpOY6TO14/view?usp=share_link](https://youtu.be/gNVTwzo-xQs)https://youtu.be/gNVTwzo-xQs
 
 
