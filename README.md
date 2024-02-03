@@ -2,7 +2,7 @@
 
 Hamza Shah Khan: 119483152 | hamzask@umd.edu
 
-### **Output Video**
+## **Output Video**
 
 [https://drive.google.com/file/d/1d204RiwlYIIe02Jf-8912CeFpOY6TO14/view?usp=share_link](https://youtu.be/gNVTwzo-xQs)https://youtu.be/gNVTwzo-xQs
 
@@ -44,6 +44,7 @@ On February 6, 2018, SpaceX successfully launched its Falcon Heavy, marking a si
 - Points awarded for delivering Red, Green, or Blue blocks to the construction zone.
 - Points deducted for White, Black, or Yellow blocks delivered in part or in full.
 
+## Output
 
 
 
